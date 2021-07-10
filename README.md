@@ -1,2 +1,2 @@
 # game of life using pygame
-![alt text](Screenshot.png)
+![alt text](img/Screenshot.png)
